@@ -2,6 +2,7 @@ import re
 
 
 # Write a Python program that matches a word containing 'z', not the start or end of the word
+
 def check_z(text):
     pat = r'\b\w*z\w*\b'
     matches = re.findall(pat, text)
@@ -23,6 +24,7 @@ remove_leading_zeros("192.008.020.006")
 
 
 # Write a Python program to find the occurrence and position of substrings within a string
+
 def find_substring(string, substring):
     pattern = re.compile(f'({re.escape(substring)})')
     matches = pattern.finditer(string)
@@ -41,7 +43,6 @@ for result in results:
 
 # Write a Python program to convert a date of yyyy-mm-dd format to dd-mm-yyyy format
 
-
 def convert_date(date):
     pattern = r'(\d{4})-(\d{2})-(\d{2})'
     converted = re.sub(pattern, r'\3-\2-\1', date)
@@ -54,7 +55,6 @@ print(converted_date)
 
 # Write a Python program to find all three, four, and five character words in a string
 
-
 def find_words(string):
     pattern = r'\b\w{3,5}\b'
     words = re.findall(pattern, string)
@@ -66,7 +66,6 @@ print(words)
 
 
 # Write a Python program to convert a camel-case string to a snake-case string
-
 
 def camel(string):
     words = re.findall(r'[A-Z](?:[a-z]+|[A-Z]*(?=[A-Z]|$))', string)
@@ -97,6 +96,7 @@ for adverb, pos in adverbs:
 
 
 # Write a Python program to concatenate the consecutive numbers in a given string.
+
 def concatenate(text):
     pattern = r'\b(\d+)\s+(\d+)\b'
     matches = re.finditer(pattern, text)
