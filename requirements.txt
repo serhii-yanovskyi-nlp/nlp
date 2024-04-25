@@ -24,3 +24,5 @@ pandas==2.2.1
 
 
 textdistance~=4.6.2
+nltk~=3.8.1
+scikit-learn~=1.4.2
