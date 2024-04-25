@@ -17,3 +17,9 @@ async def predict(request: Request, payload: PredictRequest) -> Any:
 
     predict_value = model.predict(input_text)
     return PredictResponse(result=predict_value)
+
+
+
+
+
+

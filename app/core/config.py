@@ -2,7 +2,7 @@ from pydantic import BaseSettings
 
 
 class Settings(BaseSettings):
-    PROJECT_NAME: str = "FastAPI Template"
+    PROJECT_NAME: str = "NLP"
     API_V1_STR: str = "/api/v1"
 
     MODEL_PATH: str = "app/ml_model/model.pth"
