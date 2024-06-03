@@ -29,14 +29,14 @@ def label(vector):
     return tags[closest_index]
 
 
-router = APIRouter()
+doc2vec_router = APIRouter()
 model = os.path.join(os.path.dirname(__file__), "model", "doc2vec")
 doc2vec_model = Doc2Vec.load(model)
-tags = ['health', 'finance', 'travel', 'food', 'education']
+tags = ['sport', 'tech', 'business', 'entertainment', 'politics']
 label_vectors = [doc2vec_model.dv[label] for label in tags]
 
 
-@router.post("/doc2vec")
+@doc2vec_router.post("/doc2vec")
 async def classify(sentences: List[str]):
     class_sentences = []
     for sentence in sentences:

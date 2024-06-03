@@ -6,6 +6,7 @@ from app.core.event_handler import start_app_handler, stop_app_handler
 from app.api.calculate import calculate_router
 from app.api.preprocesing import preprocesing_router
 from app.api.doc2vec import doc2vec_router
+from app.api.preprocesing_spacy import preprocessing_router_specy
 
 app = FastAPI(title=settings.PROJECT_NAME)
 
@@ -14,6 +15,7 @@ app.include_router(api_router, prefix=settings.API_V1_STR, tags=["ML API"])
 app.include_router(calculate_router, prefix=settings.API_V1_STR, tags=["NLP"])
 app.include_router(preprocesing_router, prefix=settings.API_V1_STR, tags=["NLP"])
 app.include_router(doc2vec_router, prefix=settings.API_V1_STR, tags=["NLP"])
+app.include_router(preprocessing_router_specy, prefix=settings.API_V1_STR, tags=["NLP"])
 
 app.add_event_handler("startup", start_app_handler(app, settings.MODEL_PATH))
 app.add_event_handler("shutdown", stop_app_handler(app))
