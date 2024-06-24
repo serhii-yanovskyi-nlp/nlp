@@ -20,8 +20,8 @@ class Component(BaseModel):
     params: Optional[dict] = None
 
 
-class SpacyPipeRequest(BaseModel):
+class Spacy(BaseModel):
     input: StrictStr = Field(..., title="input", description="Input text",
-                             example="Inulinases are used for the production of high-fructose syrup 456 and fructooligosaccharides, and are widely utilized in food and pharmaceutical industries. In this study,")
+                             example="There have been many great writers in the history of English literature, but there is no doubt about which writer was the greatest.")
     components: List[Component] = Field(..., title="components", description="List of transformers")
     disable: Optional[List[str]] = None

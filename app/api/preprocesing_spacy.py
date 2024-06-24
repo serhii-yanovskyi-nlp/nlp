@@ -8,7 +8,7 @@ from typing import Any
 from spacy import Language
 from spacy.tokens import Doc
 
-from app.models.make_pipeline import TransformRequest, SpacyPipeRequest
+from app.models.make_pipeline import TransformRequest, Spacy
 from sklearn.pipeline import make_pipeline
 
 app = FastAPI()
@@ -96,11 +96,7 @@ path_model = os.path.join(os.path.dirname(__file__), "model/spacy/en_core_web_sm
 
 
 @transpacy_router.post("/transpacy")
-async def transform(req: SpacyPipeRequest) -> Any:
-    """
-    Preprocess given input text using steps
-    """
-
+async def transform(req: Spacy) -> Any:
     d = req.disable
     if d is None:
         d = []
