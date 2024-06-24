@@ -1,0 +1,488 @@
+Apple is headquartered in Cupertino, California.
+Microsoft was founded by Bill Gates and Paul Allen on April 4, 1975.
+Amazon is the largest online retailer in the world.
+Google LLC was founded by Larry Page and Sergey Brin in 1998. It is headquartered in Mountain View, California.
+Facebook was launched by Mark Zuckerberg and his college roommates.
+Tesla, Inc. is known for electric vehicles and clean energy products.
+The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France.
+Mona Lisa is a half-length portrait painting by the Italian artist Leonardo da Vinci.
+The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China.
+Beethoven is one of the most famous composers of all time, known for his symphonies and piano sonatas.
+The Taj Mahal is an ivory-white marble mausoleum on the south bank of the river Yamuna in the Indian city of Agra.
+Mount Everest is Earth's highest mountain above sea level, located in the Mahalangur Himal sub-range of the Himalayas.
+The Mona Lisa is a famous painting by Leonardo da Vinci.
+Paris is the capital city of France.
+The Statue of Liberty is a symbol of freedom and democracy.
+Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota, Aichi, Japan.
+The Nile is a major north-flowing river in northeastern Africa, generally regarded as the longest river in the world.
+Shakespeare is often regarded as the greatest playwright in the English language.
+Elon Musk is the CEO of Tesla, Inc.
+J.K. Rowling is the author of the Harry Potter series.
+The Colosseum is an ancient amphitheater located in Rome, Italy.
+Albert Einstein was a theoretical physicist known for the theory of relativity.
+Vincent van Gogh was a Dutch Post-Impressionist painter.
+The Amazon Rainforest is the largest tropical rainforest in the world.
+Beyoncé is a famous American singer and actress.
+The Kremlin is a fortified complex in the heart of Moscow, Russia.
+Vincent van Gogh's 'Starry Night' is one of his most famous paintings.
+Antarctica is Earth's southernmost continent, home to the South Pole.
+The Mona Lisa is housed in the Louvre Museum in Paris.
+Tokyo is the capital city of Japan.
+Neil Armstrong was the first person to walk on the moon.
+The Sahara Desert is the largest hot desert in the world.
+William Shakespeare wrote many famous plays, including 'Romeo and Juliet'.
+Marie Curie was a pioneering physicist and chemist.
+The Pacific Ocean is the largest and deepest of Earth's oceanic divisions.
+Vincent van Gogh's 'Sunflowers' series is renowned worldwide.
+The Leaning Tower of Pisa is a freestanding bell tower of the cathedral in Pisa, Italy.
+Nelson Mandela was a South African anti-apartheid revolutionary and political leader.
+The Ganges is a trans-boundary river of Asia which flows through India and Bangladesh.
+Leonardo da Vinci was an Italian polymath of the High Renaissance who is widely considered one of the most diversely talented individuals ever to have lived.
+The Sahara Desert covers much of North Africa.
+Stephen Hawking was a theoretical physicist, cosmologist, and author.
+The White House is the official residence and workplace of the president of the United States.
+The Milky Way is the galaxy that contains our solar system.
+Walt Disney was an American entrepreneur, animator, writer, voice actor, and film producer.
+Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru on a 2,430-meter mountain ridge.
+The moon is Earth's only natural satellite.
+The Louvre Museum is located in Paris, France, and is the world's largest art museum and a historic monument.
+William Shakespeare's plays are performed and studied worldwide.
+Malala Yousafzai is a Pakistani activist for female education and the youngest Nobel Prize laureate.
+The Mediterranean Sea is a sea connected to the Atlantic Ocean, surrounded by the Mediterranean Basin and almost completely enclosed by land: on the north by Southern Europe and Anatolia, on the south by North Africa, and on the east by the Levant.
+Pablo Picasso was a Spanish painter, sculptor, printmaker, ceramicist and theatre designer who spent most of his adult life in France.
+The Pacific Ring of Fire is an area in the Pacific Ocean basin where many earthquakes and volcanic eruptions occur.
+Martin Luther King Jr. was an American Baptist minister and activist who became the most visible spokesperson and leader in the Civil Rights Movement from 1955 until his assassination in 1968.
+The Sydney Opera House is a multi-venue performing arts centre at Sydney Harbour in Sydney, New South Wales, Australia.
+Hollywood is a neighborhood in the central region of Los Angeles, California.
+Michael Jordan is a retired American professional basketball player.
+The Sahara Desert is the largest hot desert and the third-largest desert after Antarctica and the Arctic worldwide.
+The Great Barrier Reef is the world's largest coral reef system composed of over 2,900 individual reefs and 900 islands stretching for over 2,300 kilometers (1,400 mi) over an area of approximately 344,400 square kilometers (133,000 sq mi).
+Madonna is an American singer, songwriter, and actress.
+The Amazon River in South America is the largest river by discharge volume of water in the world, and the disputed longest river in the world.
+Jupiter is the fifth planet from the Sun and the largest in the Solar System.
+Oscar Wilde was an Irish poet and playwright.
+The Great Wall of China is the collective name of a series of fortification systems generally built across the historical northern borders of China to protect and consolidate territories of Chinese states and empires against various nomadic groups of the steppe and their polities.
+Michael Jackson was an American singer, songwriter, and dancer.
+The Sydney Opera House is a multi-venue performing arts centre at Sydney Harbour in Sydney, New South Wales, Australia.
+Napoleon Bonaparte was a French statesman and military leader who rose to prominence during the French Revolution and led several successful campaigns during the Revolutionary Wars.
+The Parthenon is a former temple on the Athenian Acropolis, Greece, dedicated to the goddess Athena, whom the people of Athens considered their patron.
+Diego Maradona was an Argentine professional football player and manager.
+The Sahara Desert, located in North Africa, is the largest hot desert in the world.
+Albert Einstein's theory of relativity revolutionized the way we understand space, time, and gravity.
+The Red Sea is a seawater inlet of the Indian Ocean, lying between Africa and Asia.
+Michael Phelps is an American former competitive swimmer and the most successful and most decorated Olympian of all time, with a total of 28 medals.
+The Himalayas are a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau.
+Michael Jordan is widely considered to be the greatest basketball player of all time.
+The International Space Station (ISS) is a modular space station (habitable artificial satellite) in low Earth orbit.
+Charles Darwin was an English naturalist, geologist, and biologist, best known for his contributions to the science of evolution.
+Lake Baikal is the largest freshwater lake by volume in the world, containing roughly 20% of the world's unfrozen surface fresh water.
+Vincent van Gogh's 'The Starry Night' is one of his most famous paintings.
+The Sahara Desert is the largest hot desert in the world, and the third largest desert overall after Antarctica and the Arctic.
+Mahatma Gandhi was an Indian lawyer, anti-colonial nationalist, and political ethicist.
+The Dead Sea is a salt lake bordered by Jordan to the east and Israel and the West Bank to the west.
+The Berlin Wall was a guarded concrete barrier that physically and ideologically divided Berlin from 1961 to 1989.
+The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the one-mile-wide (1.6 km) strait connecting San Francisco Bay and the Pacific Ocean.
+Lionel Messi is an Argentine professional footballer who plays as a forward for Paris Saint-Germain and the Argentina national team.
+The Black Sea is a marginal sea of the Atlantic Ocean lying between Europe and Asia; it is bounded by Turkey to the south, Georgia to the east, Crimea, and Russia to the north, and Bulgaria and Romania to the west.
+Pablo Picasso was a Spanish painter, sculptor, printmaker, ceramicist, and theatre designer who spent most of his adult life in France.
+The Moon is an astronomical body orbiting Earth as its only natural satellite.
+The Sistine Chapel is a chapel in the Apostolic Palace, the official residence of the pope, in Vatican City.
+George Washington was an American political leader, military general, statesman, and Founding Father who served as the first president of the United States from 1789 to 1797.
+The Andes is the longest continental mountain range in the world, forming a continuous highland along the western edge of South America.
+Elvis Presley was an American singer and actor widely regarded as one of the most significant cultural icons of the 20th century.
+The Antarctic Ice Sheet is one of the two polar ice caps of Earth, covering about 98% of Antarctica's landmass.
+The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex bordering present-day Giza in Greater Cairo, Egypt.
+Leonardo da Vinci's 'Mona Lisa' is one of the most famous paintings in the world.
+Sir Isaac Newton was an English mathematician, physicist, astronomer, theologian, and author who is widely recognized as one of the greatest mathematicians and most influential scientists of all time.
+The Sahara Desert is the largest hot desert and the third largest desert overall after Antarctica and the Arctic.
+The Nile River is a major north-flowing river in northeastern Africa, and is commonly regarded as the longest river in the world.
+Mother Teresa, known in the Roman Catholic Church as Saint Teresa of Calcutta, was an Albanian-Indian Roman Catholic nun and missionary.
+The Panama Canal is an artificial 82 km (51 mi) waterway in Panama that connects the Atlantic Ocean with the Pacific Ocean.
+The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States.
+Charles Dickens was an English writer and social critic.
+The Himalayas are a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau.
+The Mona Lisa is a portrait painting by Leonardo da Vinci, one of the most famous and recognized paintings in the world.
+The White House is the official residence and workplace of the president of the United States.
+Pluto is a dwarf planet in the Kuiper belt, a ring of bodies beyond Neptune.
+Albert Einstein was a German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics.
+The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China to protect the Chinese states and empires against the raids and invasions of the various nomadic groups of the Eurasian Steppe.
+Elon Musk is a business magnate, industrial designer, and engineer.
+The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France.
+Sir Alexander Fleming was a Scottish bacteriologist, physician, microbiologist, and pharmacologist.
+The Ganges River is a trans-boundary river of Asia which flows through India and Bangladesh.
+Leonardo da Vinci was an Italian polymath of the High Renaissance who is widely considered one of the most diversely talented individuals ever to have lived.
+The Sahara Desert is a desert located on the African continent. It is the largest hot desert and the third largest desert in the world after Antarctica and the Arctic.
+The Atlantic Ocean is the second-largest of the world's oceans, with an area of about 106,460,000 square kilometers (41,100,000 square miles).
+Amelia Earhart was an American aviation pioneer and author. Earhart was the first female aviator to fly solo across the Atlantic Ocean.
+The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France, and is named after the engineer Gustave Eiffel.
+The Moon is an astronomical body orbiting Earth as its only natural satellite. It is the fifth-largest satellite in the Solar System, and by far the largest among planetary satellites relative to the size of the planet that it orbits.
+Alexander Graham Bell was a Scottish-born inventor, scientist, and engineer who is credited with inventing and patenting the first practical telephone.
+The Nile River is a major north-flowing river in northeastern Africa, generally regarded as the longest river in the world.
+The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the one-mile-wide (1.6 km) strait connecting San Francisco Bay and the Pacific Ocean.
+The Sahara Desert is a desert located on the African continent.
+The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex bordering present-day Giza in Greater Cairo, Egypt.
+Ludwig van Beethoven was a German composer and pianist; his music is amongst the most performed of the classical music repertoire, and he is one of the most admired composers in the history of Western music.
+The Amazon Rainforest, alternatively, the Amazon Jungle or Amazonia, is a moist broadleaf tropical rainforest in the Amazon biome that covers most of the Amazon basin of South America.
+The Great Barrier Reef is the world's largest coral reef system composed of over 2,900 individual reefs and 900 islands spanning over 2,300 kilometers (1,400 mi) over an area of approximately 344,400 square kilometers (133,000 sq mi).
+Plato was an Athenian philosopher during the Classical period in Ancient Greece, founder of the Platonist school of thought, and the Academy, the first institution of higher learning in the Western world.
+The Sahara Desert, located in North Africa, is the largest hot desert in the world, and the third largest desert overall after Antarctica and the Arctic.
+The Sistine Chapel is a chapel in the Apostolic Palace, the official residence of the pope, in Vatican City.
+Johann Sebastian Bach was a German composer and musician of the Baroque period. He is known for instrumental compositions such as the Brandenburg Concertos and the Goldberg Variations, and for vocal music such as the St Matthew Passion and the Mass in B minor.
+The Sahara Desert is the largest hot desert in the world, and the third largest desert overall after Antarctica and the Arctic.
+The Ganges is a trans-boundary river of Asia which flows through India and Bangladesh.
+The Amazon River is the largest river by discharge volume of water in the world, and the disputed longest river in the world.
+The Pacific Ocean is the largest and deepest of Earth's oceanic divisions. It extends from the Arctic Ocean in the north to the Southern Ocean (or, depending on definition, to Antarctica) in the south and is bounded by the continents of Asia and Australia in the west and the Americas in the east.
+The Himalayas, or Himalaya, are a mountain range in Asia, separating the plains of the Indian subcontinent from the Tibetan Plateau.
+Nelson Mandela was a South African anti-apartheid revolutionary, political leader, and philanthropist who served as President of South Africa from 1994 to 1999.
+Vincent van Gogh's 'Starry Night' is one of his most famous paintings.
+The Colosseum is an oval amphitheatre in the centre of the city of Rome, Italy.
+The Sydney Opera House is a multi-venue performing arts centre at Sydney Harbour in Sydney, New South Wales, Australia.
+The Andes is the longest continental mountain range in the world, forming a continuous highland along the western edge of South America.
+The Ganges River is a trans-boundary river of Asia which flows through India and Bangladesh.
+The Berlin Wall was a guarded concrete barrier that physically and ideologically divided Berlin from 1961 to 1989.
+Elvis Presley was an American singer and actor widely regarded as one of the most significant cultural icons of the 20th century.
+The Antarctic Ice Sheet is one of the two polar ice caps of Earth, covering about 98% of Antarctica's landmass.
+The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex bordering present-day Giza in Greater Cairo, Egypt.
+Leonardo da Vinci's 'Mona Lisa' is one of the most famous paintings in the world.
+Sir Isaac Newton was an English mathematician, physicist, astronomer, theologian, and author who is widely recognized as one of the greatest mathematicians and most influential scientists of all time.
+The Sahara Desert is the largest hot desert and the third largest desert overall after Antarctica and the Arctic.
+The Nile River is a major north-flowing river in northeastern Africa, and is commonly regarded as the longest river in the world.
+Mother Teresa, known in the Roman Catholic Church as Saint Teresa of Calcutta, was an Albanian-Indian Roman Catholic nun and missionary.
+The Panama Canal is an artificial 82 km (51 mi) waterway in Panama that connects the Atlantic Ocean with the Pacific Ocean.
+The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States.
+Charles Dickens was an English writer and social critic.
+The Himalayas are a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau.
+The Mona Lisa is a portrait painting by Leonardo da Vinci, one of the most famous and recognized paintings in the world.
+The White House is the official residence and workplace of the president of the United States.
+Pluto is a dwarf planet in the Kuiper belt, a ring of bodies beyond Neptune.
+Albert Einstein was a German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics.
+The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China to protect the Chinese states and empires against the raids and invasions of the various nomadic groups of the Eurasian Steppe.
+Elon Musk is a business magnate, industrial designer, and engineer.
+The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France.
+Sir Alexander Fleming was a Scottish bacteriologist, physician, microbiologist, and pharmacologist.
+The Ganges River is a trans-boundary river of Asia which flows through India and Bangladesh.
+Leonardo da Vinci was an Italian polymath of the High Renaissance who is widely considered one of the most diversely talented individuals ever to have lived.
+The Sahara Desert is a desert located on the African continent. It is the largest hot desert and the third largest desert in the world after Antarctica and the Arctic.
+The Atlantic Ocean is the second-largest of the world's oceans, with an area of about 106,460,000 square kilometers (41,100,000 square miles).
+Amelia Earhart was an American aviation pioneer and author. Earhart was the first female aviator to fly solo across the Atlantic Ocean.
+The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France, and is named after the engineer Gustave Eiffel.
+The Moon is an astronomical body orbiting Earth as its only natural satellite. It is the fifth-largest satellite in the Solar System, and by far the largest among planetary satellites relative to the size of the planet that it orbits.
+Alexander Graham Bell was a Scottish-born inventor, scientist, and engineer who is credited with inventing and patenting the first practical telephone.
+The Nile River is a major north-flowing river in northeastern Africa, generally regarded as the longest river in the world.
+The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the one-mile-wide (1.6 km) strait connecting San Francisco Bay and the Pacific Ocean.
+The Sahara Desert is a desert located on the African continent.
+The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex bordering present-day Giza in Greater Cairo, Egypt.
+Ludwig van Beethoven was a German composer and pianist; his music is amongst the most performed of the classical music repertoire, and he is one of the most admired composers in the history of Western music.
+The Amazon Rainforest, alternatively, the Amazon Jungle or Amazonia, is a moist broadleaf tropical rainforest in the Amazon biome that covers most of the Amazon basin of South America.
+The Great Barrier Reef is the world's largest coral reef system composed of over 2,900 individual reefs and 900 islands spanning over 2,300 kilometers (1,400 mi) over an area of approximately 344,400 square kilometers (133,000 sq mi).
+Plato was an Athenian philosopher during the Classical period in Ancient Greece, founder of the Platonist school of thought, and the Academy, the first institution of higher learning in the Western world.
+The Sahara Desert, located in North Africa, is the largest hot desert in the world, and the third largest desert overall after Antarctica and the Arctic.
+The Sistine Chapel is a chapel in the Apostolic Palace, the official residence of the pope, in Vatican City.
+Johann Sebastian Bach was a German composer and musician of the Baroque period. He is known for instrumental compositions such as the Brandenburg Concertos and the Goldberg Variations, and for vocal music such as the St Matthew Passion and the Mass in B minor.
+The Sahara Desert is the largest hot desert in the world, and the third largest desert overall after Antarctica and the Arctic.
+The Ganges is a trans-boundary river of Asia which flows through India and Bangladesh.
+The Amazon River is the largest river by discharge volume of water in the world, and the disputed longest river in the world.
+The Pacific Ocean is the largest and deepest of Earth's oceanic divisions. It extends from the Arctic Ocean in the north to the Southern Ocean (or, depending on definition, to Antarctica) in the south and is bounded by the continents of Asia and Australia in the west and the Americas in the east.
+The Himalayas, or Himalaya, are a mountain range in Asia, separating the plains of the Indian subcontinent from the Tibetan Plateau.
+Nelson Mandela was a South African anti-apartheid revolutionary, political leader, and philanthropist who served as President of South Africa from 1994 to 1999.
+Vincent van Gogh's 'Starry Night' is one of his most famous paintings.
+The Colosseum is an oval amphitheatre in the centre of the city of Rome, Italy.
+The Sydney Opera House is a multi-venue performing arts centre at Sydney Harbour in Sydney, New South Wales, Australia.
+The Andes is the longest continental mountain range in the world, forming a continuous highland along the western edge of South America.
+The Ganges River is a trans-boundary river of Asia which flows through India and Bangladesh.
+The Berlin Wall was a guarded concrete barrier that physically and ideologically divided Berlin from 1961 to 1989.
+Elvis Presley was an American singer and actor widely regarded as one of the most significant cultural icons of the 20th century.
+The Antarctic Ice Sheet is one of the two polar ice caps of Earth, covering about 98% of Antarctica's landmass.
+The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex bordering present-day Giza in Greater Cairo, Egypt.
+Leonardo da Vinci's 'Mona Lisa' is one of the most famous paintings in the world.
+Sir Isaac Newton was an English mathematician, physicist, astronomer, theologian, and author who is widely recognized as one of the greatest mathematicians and most influential scientists of all time.
+The Sahara Desert is the largest hot desert and the third largest desert overall after Antarctica and the Arctic.
+The Nile River is a major north-flowing river in northeastern Africa, and is commonly regarded as the longest river in the world.
+Mother Teresa, known in the Roman Catholic Church as Saint Teresa of Calcutta, was an Albanian-Indian Roman Catholic nun and missionary.
+The Panama Canal is an artificial 82 km (51 mi) waterway in Panama that connects the Atlantic Ocean with the Pacific Ocean.
+The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States.
+Charles Dickens was an English writer and social critic.
+The Himalayas are a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau.
+The Mona Lisa is a portrait painting by Leonardo da Vinci, one of the most famous and recognized paintings in the world.
+The White House is the official residence and workplace of the president of the United States.
+Pluto is a dwarf planet in the Kuiper belt, a ring of bodies beyond Neptune.
+Albert Einstein was a German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics.
+The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China to protect the Chinese states and empires against the raids and invasions of the various nomadic groups of the Eurasian Steppe.
+Elon Musk is a business magnate, industrial designer, and engineer.
+The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France.
+Sir Alexander Fleming was a Scottish bacteriologist, physician, microbiologist, and pharmacologist.
+The Ganges River is a trans-boundary river of Asia which flows through India and Bangladesh.
+Leonardo da Vinci was an Italian polymath of the High Renaissance who is widely considered one of the most diversely talented individuals ever to have lived.
+The Sahara Desert is a desert located on the African continent. It is the largest hot desert and the third largest desert in the world after Antarctica and the Arctic.
+The Atlantic Ocean is the second-largest of the world's oceans, with an area of about 106,460,000 square kilometers (41,100,000 square miles).
+Amelia Earhart was an American aviation pioneer and author. Earhart was the first female aviator to fly solo across the Atlantic Ocean.
+The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France, and is named after the engineer Gustave Eiffel.
+The Moon is an astronomical body orbiting Earth as its only natural satellite. It is the fifth-largest satellite in the Solar System, and by far the largest among planetary satellites relative to the size of the planet that it orbits.
+Alexander Graham Bell was a Scottish-born inventor, scientist, and engineer who is credited with inventing and patenting the first practical telephone.
+The Nile River is a major north-flowing river in northeastern Africa, generally regarded as the longest river in the world.
+The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the one-mile-wide (1.6 km) strait connecting San Francisco Bay and the Pacific Ocean.
+The Sahara Desert is a desert located on the African continent.
+The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex bordering present-day Giza in Greater Cairo, Egypt.
+Ludwig van Beethoven was a German composer and pianist; his music is amongst the most performed of the classical music repertoire, and he is one of the most admired composers in the history of Western music.
+The Amazon Rainforest, alternatively, the Amazon Jungle or Amazonia, is a moist broadleaf tropical rainforest in the Amazon biome that covers most of the Amazon basin of South America.
+The Great Barrier Reef is the world's largest coral reef system composed of over 2,900 individual reefs and 900 islands spanning over 2,300 kilometers (1,400 mi) over an area of approximately 344,400 square kilometers (133,000 sq mi).
+Plato was an Athenian philosopher during the Classical period in Ancient Greece, founder of the Platonist school of thought, and the Academy, the first institution of higher learning in the Western world.
+The Sahara Desert, located in North Africa, is the largest hot desert in the world, and the third largest desert overall after Antarctica and the Arctic.
+The Sistine Chapel is a chapel in the Apostolic Palace, the official residence of the pope, in Vatican City.
+Johann Sebastian Bach was a German composer and musician of the Baroque period. He is known for instrumental compositions such as the Brandenburg Concertos and the Goldberg Variations, and for vocal music such as the St Matthew Passion and the Mass in B minor.
+The Sahara Desert is the largest hot desert in the world, and the third largest desert overall after Antarctica and the Arctic.
+The Ganges is a trans-boundary river of Asia which flows through India and Bangladesh.
+The Amazon River is the largest river by discharge volume of water in the world, and the disputed longest river in the world.
+The Pacific Ocean is the largest and deepest of Earth's oceanic divisions. It extends from the Arctic Ocean in the north to the Southern Ocean (or, depending on definition, to Antarctica) in the south and is bounded by the continents of Asia and Australia in the west and the Americas in the east.
+The Himalayas, or Himalaya, are a mountain range in Asia, separating the plains of the Indian subcontinent from the Tibetan Plateau.
+Nelson Mandela was a South African anti-apartheid revolutionary, political leader, and philanthropist who served as President of South Africa from 1994 to 1999.
+Vincent van Gogh's 'Starry Night' is one of his most famous paintings.
+The Colosseum is an oval amphitheatre in the centre of the city of Rome, Italy.
+The Sydney Opera House is a multi-venue performing arts centre at Sydney Harbour in Sydney, New South Wales, Australia.
+The Andes is the longest continental mountain range in the world, forming a continuous highland along the western edge of South America.
+The Ganges River is a trans-boundary river of Asia which flows through India and Bangladesh.
+The Berlin Wall was a guarded concrete barrier that physically and ideologically divided Berlin from 1961 to 1989.
+Elvis Presley was an American singer and actor widely regarded as one of the most significant cultural icons of the 20th century.
+The Antarctic Ice Sheet is one of the two polar ice caps of Earth, covering about 98% of Antarctica's landmass.
+The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex bordering present-day Giza in Greater Cairo, Egypt.
+Leonardo da Vinci's 'Mona Lisa' is one of the most famous paintings in the world.
+Sir Isaac Newton was an English mathematician, physicist, astronomer, theologian, and author who is widely recognized as one of the greatest mathematicians and most influential scientists of all time.
+The Sahara Desert is the largest hot desert and the third largest desert overall after Antarctica and the Arctic.
+The Nile River is a major north-flowing river in northeastern Africa, and is commonly regarded as the longest river in the world.
+Mother Teresa, known in the Roman Catholic Church as Saint Teresa of Calcutta, was an Albanian-Indian Roman Catholic nun and missionary.
+The Panama Canal is an artificial 82 km (51 mi) waterway in Panama that connects the Atlantic Ocean with the Pacific Ocean.
+The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States.
+Charles Dickens was an English writer and social critic.
+The Himalayas are a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau.
+The Mona Lisa is a portrait painting by Leonardo da Vinci, one of the most famous and recognized paintings in the world.
+The White House is the official residence and workplace of the president of the United States.
+Pluto is a dwarf planet in the Kuiper belt, a ring of bodies beyond Neptune.
+Albert Einstein was a German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics.
+The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China to protect the Chinese states and empires against the raids and invasions of the various nomadic groups of the Eurasian Steppe.
+Elon Musk is a business magnate, industrial designer, and engineer.
+The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France.
+Sir Alexander Fleming was a Scottish bacteriologist, physician, microbiologist, and pharmacologist.
+The Ganges River is a trans-boundary river of Asia which flows through India and Bangladesh.
+Leonardo da Vinci was an Italian polymath of the High Renaissance who is widely considered one of the most diversely talented individuals ever to have lived.
+The Sahara Desert is a desert located on the African continent. It is the largest hot desert and the third largest desert in the world after Antarctica and the Arctic.
+The Atlantic Ocean is the second-largest of the world's oceans, with an area of about 106,460,000 square kilometers (41,100,000 square miles).
+Amelia Earhart was an American aviation pioneer and author. Earhart was the first female aviator to fly solo across the Atlantic Ocean.
+The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France, and is named after the engineer Gustave Eiffel.
+The Moon is an astronomical body orbiting Earth as its only natural satellite. It is the fifth-largest satellite in the Solar System, and by far the largest among planetary satellites relative to the size of the planet that it orbits.
+Alexander Graham Bell was a Scottish-born inventor, scientist, and engineer who is credited with inventing and patenting the first practical telephone.
+The Nile River is a major north-flowing river in northeastern Africa, generally regarded as the longest river in the world.
+The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the one-mile-wide (1.6 km) strait connecting San Francisco Bay and the Pacific Ocean.
+The Sahara Desert is a desert located on the African continent.
+The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex bordering present-day Giza in Greater Cairo, Egypt.
+Ludwig van Beethoven was a German composer and pianist; his music is amongst the most performed of the classical music repertoire, and he is one of the most admired composers in the history of Western music.
+The Amazon Rainforest, alternatively, the Amazon Jungle or Amazonia, is a moist broadleaf tropical rainforest in the Amazon biome that covers most of the Amazon basin of South America.
+The Great Barrier Reef is the world's largest coral reef system composed of over 2,900 individual reefs and 900 islands spanning over 2,300 kilometers (1,400 mi) over an area of approximately 344,400 square kilometers (133,000 sq mi).
+Plato was an Athenian philosopher during the Classical period in Ancient Greece, founder of the Platonist school of thought, and the Academy, the first institution of higher learning in the Western world.
+The Sahara Desert, located in North Africa, is the largest hot desert in the world, and the third largest desert overall after Antarctica and the Arctic.
+The Sistine Chapel is a chapel in the Apostolic Palace, the official residence of the pope, in Vatican City.
+Johann Sebastian Bach was a German composer and musician of the Baroque period. He is known for instrumental compositions such as the Brandenburg Concertos and the Goldberg Variations, and for vocal music such as the St Matthew Passion and the Mass in B minor.
+The Sahara Desert is the largest hot desert in the world, and the third largest desert overall after Antarctica and the Arctic.
+The Ganges is a trans-boundary river of Asia which flows through India and Bangladesh.
+The Amazon River is the largest river by discharge volume of water in the world, and the disputed longest river in the world.
+The Pacific Ocean is the largest and deepest of Earth's oceanic divisions. It extends from the Arctic Ocean in the north to the Southern Ocean (or, depending on definition, to Antarctica) in the south and is bounded by the continents of Asia and Australia in the west and the Americas in the east.
+The Himalayas, or Himalaya, are a mountain range in Asia, separating the plains of the Indian subcontinent from the Tibetan Plateau.
+Nelson Mandela was a South African anti-apartheid revolutionary, political leader, and philanthropist who served as President of South Africa from 1994 to 1999.
+Vincent van Gogh's 'Starry Night' is one of his most famous paintings.
+The Colosseum is an oval amphitheatre in the centre of the city of Rome, Italy.
+The Sydney Opera House is a multi-venue performing arts centre at Sydney Harbour in Sydney, New South Wales, Australia.
+The Andes is the longest continental mountain range in the world, forming a continuous highland along the western edge of South America.
+The Ganges River is a trans-boundary river of Asia which flows through India and Bangladesh.
+The Berlin Wall was a guarded concrete barrier that physically and ideologically divided Berlin from 1961 to 1989.
+Elvis Presley was an American singer and actor widely regarded as one of the most significant cultural icons of the 20th century.
+The Antarctic Ice Sheet is one of the two polar ice caps of Earth, covering about 98% of Antarctica's landmass.
+The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex bordering present-day Giza in Greater Cairo, Egypt.
+Leonardo da Vinci's 'Mona Lisa' is one of the most famous paintings in the world.
+Sir Isaac Newton was an English mathematician, physicist, astronomer, theologian, and author who is widely recognized as one of the greatest mathematicians and most influential scientists of all time.
+The Sahara Desert is the largest hot desert and the third largest desert overall after Antarctica and the Arctic.
+The Nile River is a major north-flowing river in northeastern Africa, and is commonly regarded as the longest river in the world.
+Mother Teresa, known in the Roman Catholic Church as Saint Teresa of Calcutta, was an Albanian-Indian Roman Catholic nun and missionary.
+The Panama Canal is an artificial 82 km (51 mi) waterway in Panama that connects the Atlantic Ocean with the Pacific Ocean.
+The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States.
+Charles Dickens was an English writer and social critic.
+The Himalayas are a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau.
+The Mona Lisa is a portrait painting by Leonardo da Vinci, one of the most famous and recognized paintings in the world.
+The White House is the official residence and workplace of the president of the United States.
+Pluto is a dwarf planet in the Kuiper belt, a ring of bodies beyond Neptune.
+Albert Einstein was a German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics.
+The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China to protect the Chinese states and empires against the raids and invasions of the various nomadic groups of the Eurasian Steppe.
+Elon Musk is a business magnate, industrial designer, and engineer.
+The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France.
+Sir Alexander Fleming was a Scottish bacteriologist, physician, microbiologist, and pharmacologist.
+The Ganges River is a trans-boundary river of Asia which flows through India and Bangladesh.
+Leonardo da Vinci was an Italian polymath of the High Renaissance who is widely considered one of the most diversely talented individuals ever to have lived.
+The Sahara Desert is a desert located on the African continent. It is the largest hot desert and the third largest desert in the world after Antarctica and the Arctic.
+The Atlantic Ocean is the second-largest of the world's oceans, with an area of about 106,460,000 square kilometers (41,100,000 square miles).
+Amelia Earhart was an American aviation pioneer and author. Earhart was the first female aviator to fly solo across the Atlantic Ocean.
+The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France, and is named after the engineer Gustave Eiffel.
+The Moon is an astronomical body orbiting Earth as its only natural satellite. It is the fifth-largest satellite in the Solar System, and by far the largest among planetary satellites relative to the size of the planet that it orbits.
+Alexander Graham Bell was a Scottish-born inventor, scientist, and engineer who is credited with inventing and patenting the first practical telephone.
+The Nile River is a major north-flowing river in northeastern Africa, generally regarded as the longest river in the world.
+The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the one-mile-wide (1.6 km) strait connecting San Francisco Bay and the Pacific Ocean.
+The Sahara Desert is a desert located on the African continent.
+The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex bordering present-day Giza in Greater Cairo, Egypt.
+Ludwig van Beethoven was a German composer and pianist; his music is amongst the most performed of the classical music repertoire, and he is one of the most admired composers in the history of Western music.
+The Amazon Rainforest, alternatively, the Amazon Jungle or Amazonia, is a moist broadleaf tropical rainforest in the Amazon biome that covers most of the Amazon basin of South America.
+The Great Barrier Reef is the world's largest coral reef system composed of over 2,900 individual reefs and 900 islands spanning over 2,300 kilometers (1,400 mi) over an area of approximately 344,400 square kilometers (133,000 sq mi).
+Plato was an Athenian philosopher during the Classical period in Ancient Greece, founder of the Platonist school of thought, and the Academy, the first institution of higher learning in the Western world.
+The Sahara Desert, located in North Africa, is the largest hot desert in the world, and the third largest desert overall after Antarctica and the Arctic.
+The Sistine Chapel is a chapel in the Apostolic Palace, the official residence of the pope, in Vatican City.
+Johann Sebastian Bach was a German composer and musician of the Baroque period. He is known for instrumental compositions such as the Brandenburg Concertos and the Goldberg Variations, and for vocal music such as the St Matthew Passion and the Mass in B minor.
+The Sahara Desert is the largest hot desert in the world, and the third largest desert overall after Antarctica and the Arctic.
+The Ganges is a trans-boundary river of Asia which flows through India and Bangladesh.
+The Amazon River is the largest river by discharge volume of water in the world, and the disputed longest river in the world.
+The Pacific Ocean is the largest and deepest of Earth's oceanic divisions. It extends from the Arctic Ocean in the north to the Southern Ocean (or, depending on definition, to Antarctica) in the south and is bounded by the continents of Asia and Australia in the west and the Americas in the east.
+The Himalayas, or Himalaya, are a mountain range in Asia, separating the plains of the Indian subcontinent from the Tibetan Plateau.
+Nelson Mandela was a South African anti-apartheid revolutionary, political leader, and philanthropist who served as President of South Africa from 1994 to 1999.
+Vincent van Gogh's 'Starry Night' is one of his most famous paintings.
+The Colosseum is an oval amphitheatre in the centre of the city of Rome, Italy.
+The Sydney Opera House is a multi-venue performing arts centre at Sydney Harbour in Sydney, New South Wales, Australia.
+The Andes is the longest continental mountain range in the world, forming a continuous highland along the western edge of South America.
+The Ganges River is a trans-boundary river of Asia which flows through India and Bangladesh.
+The Berlin Wall was a guarded concrete barrier that physically and ideologically divided Berlin from 1961 to 1989.
+Elvis Presley was an American singer and actor widely regarded as one of the most significant cultural icons of the 20th century.
+The Antarctic Ice Sheet is one of the two polar ice caps of Earth, covering about 98% of Antarctica's landmass.
+The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex bordering present-day Giza in Greater Cairo, Egypt.
+Leonardo da Vinci's 'Mona Lisa' is one of the most famous paintings in the world.
+Sir Isaac Newton was an English mathematician, physicist, astronomer, theologian, and author who is widely recognized as one of the greatest mathematicians and most influential scientists of all time.
+The Sahara Desert is the largest hot desert and the third largest desert overall after Antarctica and the Arctic.
+The Nile River is a major north-flowing river in northeastern Africa, and is commonly regarded as the longest river in the world.
+Mother Teresa, known in the Roman Catholic Church as Saint Teresa of Calcutta, was an Albanian-Indian Roman Catholic nun and missionary.
+The Panama Canal is an artificial 82 km (51 mi) waterway in Panama that connects the Atlantic Ocean with the Pacific Ocean.
+The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States.
+Charles Dickens was an English writer and social critic.
+The Himalayas are a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau.
+The Mona Lisa is a portrait painting by Leonardo da Vinci, one of the most famous and recognized paintings in the world.
+The White House is the official residence and workplace of the president of the United States.
+Pluto is a dwarf planet in the Kuiper belt, a ring of bodies beyond Neptune.
+Albert Einstein was a German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics.
+The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China to protect the Chinese states and empires against the raids and invasions of the various nomadic groups of the Eurasian Steppe.
+Elon Musk is a business magnate, industrial designer, and engineer.
+The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France.
+Sir Alexander Fleming was a Scottish bacteriologist, physician, microbiologist, and pharmacologist.
+The Ganges River is a trans-boundary river of Asia which flows through India and Bangladesh.
+Leonardo da Vinci was an Italian polymath of the High Renaissance who is widely considered one of the most diversely talented individuals ever to have lived.
+The Sahara Desert is a desert located on the African continent. It is the largest hot desert and the third largest desert in the world after Antarctica and the Arctic.
+The Atlantic Ocean is the second-largest of the world's oceans, with an area of about 106,460,000 square kilometers (41,100,000 square miles).
+Amelia Earhart was an American aviation pioneer and author. Earhart was the first female aviator to fly solo across the Atlantic Ocean.
+The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France, and is named after the engineer Gustave Eiffel.
+The Moon is an astronomical body orbiting Earth as its only natural satellite. It is the fifth-largest satellite in the Solar System, and by far the largest among planetary satellites relative to the size of the planet that it orbits.
+Alexander Graham Bell was a Scottish-born inventor, scientist, and engineer who is credited with inventing and patenting the first practical telephone.
+The Nile River is a major north-flowing river in northeastern Africa, generally regarded as the longest river in the world.
+The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the one-mile-wide (1.6 km) strait connecting San Francisco Bay and the Pacific Ocean.
+The Sahara Desert is a desert located on the African continent.
+The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex bordering present-day Giza in Greater Cairo, Egypt.
+Ludwig van Beethoven was a German composer and pianist; his music is amongst the most performed of the classical music repertoire, and he is one of the most admired composers in the history of Western music.
+The Amazon Rainforest, alternatively, the Amazon Jungle or Amazonia, is a moist broadleaf tropical rainforest in the Amazon biome that covers most of the Amazon basin of South America.
+The Great Barrier Reef is the world's largest coral reef system composed of over 2,900 individual reefs and 900 islands spanning over 2,300 kilometers (1,400 mi) over an area of approximately 344,400 square kilometers (133,000 sq mi).
+Plato was an Athenian philosopher during the Classical period in Ancient Greece, founder of the Platonist school of thought, and the Academy, the first institution of higher learning in the Western world.
+The Sahara Desert, located in North Africa, is the largest hot desert in the world, and the third largest desert overall after Antarctica and the Arctic.
+The Sistine Chapel is a chapel in the Apostolic Palace, the official residence of the pope, in Vatican City.
+Johann Sebastian Bach was a German composer and musician of the Baroque period. He is known for instrumental compositions such as the Brandenburg Concertos and the Goldberg Variations, and for vocal music such as the St Matthew Passion and the Mass in B minor.
+The Sahara Desert is the largest hot desert in the world, and the third largest desert overall after Antarctica and the Arctic.
+The Ganges is a trans-boundary river of Asia which flows through India and Bangladesh.
+The Amazon River is the largest river by discharge volume of water in the world, and the disputed longest river in the world.
+The Pacific Ocean is the largest and deepest of Earth's oceanic divisions. It extends from the Arctic Ocean in the north to the Southern Ocean (or, depending on definition, to Antarctica) in the south and is bounded by the continents of Asia and Australia in the west and the Americas in the east.
+The Himalayas, or Himalaya, are a mountain range in Asia, separating the plains of the Indian subcontinent from the Tibetan Plateau.
+Nelson Mandela was a South African anti-apartheid revolutionary, political leader, and philanthropist who served as President of South Africa from 1994 to 1999.
+Vincent van Gogh's 'Starry Night' is one of his most famous paintings.
+The Colosseum is an oval amphitheatre in the centre of the city of Rome, Italy.
+The Sydney Opera House is a multi-venue performing arts centre at Sydney Harbour in Sydney, New South Wales, Australia.
+The Andes is the longest continental mountain range in the world, forming a continuous highland along the western edge of South America.
+The Ganges River is a trans-boundary river of Asia which flows through India and Bangladesh.
+The Berlin Wall was a guarded concrete barrier that physically and ideologically divided Berlin from 1961 to 1989.
+Elvis Presley was an American singer and actor widely regarded as one of the most significant cultural icons of the 20th century.
+The Antarctic Ice Sheet is one of the two polar ice caps of Earth, covering about 98% of Antarctica's landmass.
+The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex bordering present-day Giza in Greater Cairo, Egypt.
+Leonardo da Vinci's 'Mona Lisa' is one of the most famous paintings in the world.
+Sir Isaac Newton was an English mathematician, physicist, astronomer, theologian, and author who is widely recognized as one of the greatest mathematicians and most influential scientists of all time.
+The Sahara Desert is the largest hot desert and the third largest desert overall after Antarctica and the Arctic.
+The Nile River is a major north-flowing river in northeastern Africa, and is commonly regarded as the longest river in the world.
+Mother Teresa, known in the Roman Catholic Church as Saint Teresa of Calcutta, was an Albanian-Indian Roman Catholic nun and missionary.
+The Panama Canal is an artificial 82 km (51 mi) waterway in Panama that connects the Atlantic Ocean with the Pacific Ocean.
+The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States.
+Charles Dickens was an English writer and social critic.
+The Himalayas are a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau.
+The Mona Lisa is a portrait painting by Leonardo da Vinci, one of the most famous and recognized paintings in the world.
+The White House is the official residence and workplace of the president of the United States.
+Pluto is a dwarf planet in the Kuiper belt, a ring of bodies beyond Neptune.
+Albert Einstein was a German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics.
+The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China to protect the Chinese states and empires against the raids and invasions of the various nomadic groups of the Eurasian Steppe.
+Elon Musk is a business magnate, industrial designer, and engineer.
+The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France.
+Sir Alexander Fleming was a Scottish bacteriologist, physician, microbiologist, and pharmacologist.
+The Ganges River is a trans-boundary river of Asia which flows through India and Bangladesh.
+Leonardo da Vinci was an Italian polymath of the High Renaissance who is widely considered one of the most diversely talented individuals ever to have lived.
+The Sahara Desert is a desert located on the African continent. It is the largest hot desert and the third largest desert in the world after Antarctica and the Arctic.
+The Atlantic Ocean is the second-largest of the world's oceans, with an area of about 106,460,000 square kilometers (41,100,000 square miles).
+Amelia Earhart was an American aviation pioneer and author. Earhart was the first female aviator to fly solo across the Atlantic Ocean.
+The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France, and is named after the engineer Gustave Eiffel.
+The Moon is an astronomical body orbiting Earth as its only natural satellite. It is the fifth-largest satellite in the Solar System, and by far the largest among planetary satellites relative to the size of the planet that it orbits.
+Alexander Graham Bell was a Scottish-born inventor, scientist, and engineer who is credited with inventing and patenting the first practical telephone.
+The Nile River is a major north-flowing river in northeastern Africa, generally regarded as the longest river in the world.
+The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the one-mile-wide (1.6 km) strait connecting San Francisco Bay and the Pacific Ocean.
+The Sahara Desert is a desert located on the African continent.
+The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex bordering present-day Giza in Greater Cairo, Egypt.
+Ludwig van Beethoven was a German composer and pianist; his music is amongst the most performed of the classical music repertoire, and he is one of the most admired composers in the history of Western music.
+The Amazon Rainforest, alternatively, the Amazon Jungle or Amazonia, is a moist broadleaf tropical rainforest in the Amazon biome that covers most of the Amazon basin of South America.
+The Great Barrier Reef is the world's largest coral reef system composed of over 2,900 individual reefs and 900 islands spanning over 2,300 kilometers (1,400 mi) over an area of approximately 344,400 square kilometers (133,000 sq mi).
+Plato was an Athenian philosopher during the Classical period in Ancient Greece, founder of the Platonist school of thought, and the Academy, the first institution of higher learning in the Western world.
+The Sahara Desert, located in North Africa, is the largest hot desert in the world, and the third largest desert overall after Antarctica and the Arctic.
+The Sistine Chapel is a chapel in the Apostolic Palace, the official residence of the pope, in Vatican City.
+Johann Sebastian Bach was a German composer and musician of the Baroque period. He is known for instrumental compositions such as the Brandenburg Concertos and the Goldberg Variations, and for vocal music such as the St Matthew Passion and the Mass in B minor.
+The Sahara Desert is the largest hot desert in the world, and the third largest desert overall after Antarctica and the Arctic.
+The Ganges is a trans-boundary river of Asia which flows through India and Bangladesh.
+The Amazon River is the largest river by discharge volume of water in the world, and the disputed longest river in the world.
+The Pacific Ocean is the largest and deepest of Earth's oceanic divisions. It extends from the Arctic Ocean in the north to the Southern Ocean (or, depending on definition, to Antarctica) in the south and is bounded by the continents of Asia and Australia in the west and the Americas in the east.
+The Himalayas, or Himalaya, are a mountain range in Asia, separating the plains of the Indian subcontinent from the Tibetan Plateau.
+Nelson Mandela was a South African anti-apartheid revolutionary, political leader, and philanthropist who served as President of South Africa from 1994 to 1999.
+Vincent van Gogh's 'Starry Night' is one of his most famous paintings.
+The Colosseum is an oval amphitheatre in the centre of the city of Rome, Italy.
+The Sydney Opera House is a multi-venue performing arts centre at Sydney Harbour in Sydney, New South Wales, Australia.
+The Andes is the longest continental mountain range in the world, forming a continuous highland along the western edge of South America.
+The Ganges River is a trans-boundary river of Asia which flows through India and Bangladesh.
+The Berlin Wall was a guarded concrete barrier that physically and ideologically divided Berlin from 1961 to 1989.
+Elvis Presley was an American singer and actor widely regarded as one of the most significant cultural icons of the 20th century.
+The Antarctic Ice Sheet is one of the two polar ice caps of Earth, covering about 98% of Antarctica's landmass.
+The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex bordering present-day Giza in Greater Cairo, Egypt.
+Leonardo da Vinci's 'Mona Lisa' is one of the most famous paintings in the world.
+Sir Isaac Newton was an English mathematician, physicist, astronomer, theologian, and author who is widely recognized as one of the greatest mathematicians and most influential scientists of all time.
+The Sahara Desert is the largest hot desert and the third largest desert overall after Antarctica and the Arctic.
+The Nile River is a major north-flowing river in northeastern Africa, and is commonly regarded as the longest river in the world.
+Mother Teresa, known in the Roman Catholic Church as Saint Teresa of Calcutta, was an Albanian-Indian Roman Catholic nun and missionary.
+The Panama Canal is an artificial 82 km (51 mi) waterway in Panama that connects the Atlantic Ocean with the Pacific Ocean.
+The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States.
+Charles Dickens was an English writer and social critic.
+The Himalayas are a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau.
+The Mona Lisa is a portrait painting by Leonardo da Vinci, one of the most famous and recognized paintings in the world.
+The White House is the official residence and workplace of the president of the United States.
+Pluto is a dwarf planet in the Kuiper belt, a ring of bodies beyond Neptune.
+Albert Einstein was a German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics.
+The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China to protect the Chinese states and empires against the raids and invasions of the various nomadic groups of the Eurasian Steppe.
+Elon Musk is a business magnate, industrial designer, and engineer.
+The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France.
+Sir Alexander Fleming was a Scottish bacteriologist, physician, microbiologist, and pharmacologist.
+The Ganges River is a trans-boundary river of Asia which flows through India and Bangladesh.
+Leonardo da Vinci was an Italian polymath of the High Renaissance who is widely considered one of the most diversely talented individuals ever to have lived.
+The Sahara Desert is a desert located on the African continent. It is the largest hot desert and the third largest desert in the world after Antarctica and the Arctic.
+The Atlantic Ocean is the second-largest of the world's oceans, with an area of about 106,460,000 square kilometers (41,100,000 square miles).
+Amelia Earhart was an American aviation pioneer and author. Earhart was the first female aviator to fly solo across the Atlantic Ocean.
+The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France, and is named after the engineer Gustave Eiffel.
+The Moon is an astronomical body orbiting Earth as its only natural satellite. It is the fifth-largest satellite in the Solar System, and by far the largest among planetary satellites relative to the size of the planet that it orbits.
+Alexander Graham Bell was a Scottish-born inventor, scientist, and engineer who is credited with inventing and patenting the first practical telephone.
+The Nile River is a major north-flowing river in northeastern Africa, generally regarded as the longest river in the world.
+The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the one-mile-wide (1.6 km) strait connecting San Francisco Bay and the Pacific Ocean.
+The Sahara Desert is a desert located on the African continent.
+The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex bordering present-day Giza in Greater Cairo, Egypt.
+Ludwig van Beethoven was a German composer and pianist; his music is amongst the most performed of the classical music repertoire, and he is one of the most admired composers in the history of Western music.
+The Amazon Rainforest, alternatively, the Amazon Jungle or Amazonia, is a moist broadleaf tropical rainforest in the Amazon biome that covers most of the Amazon basin of South America.
+The Great Barrier Reef is the world's largest coral reef system composed of over 2,900 individual reefs and 900 islands spanning over 2,300 kilometers (1,400 mi) over an area of approximately 344,400 square kilometers (133,000 sq mi).
+Plato was an Athenian philosopher during the Classical period in Ancient Greece, founder of the Platonist school of thought, and the Academy, the first institution of higher learning in the Western world.
+The Sahara Desert, located in North Africa, is the largest hot desert in the world, and the third largest desert overall after Antarctica and the Arctic.
+The Sistine Chapel is a chapel in the Apostolic Palace, the official residence of the pope, in Vatican City.
+Johann Sebastian Bach was a German composer and musician of the Baroque period. He is known for instrumental compositions such as the Brandenburg Concertos and the Goldberg Variations, and for vocal music such as the St Matthew Passion and the Mass in B minor.
+The Sahara Desert is the largest hot desert in the world, and the third largest desert overall after Antarctica and the Arctic.
