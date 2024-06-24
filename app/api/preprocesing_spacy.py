@@ -3,15 +3,40 @@ import string
 import spacy
 from fastapi import FastAPI, APIRouter
 from typing import Any
-
+from app.models.spacy_pipe import SpacyPipeRequest
 
 from app.models.make_pipeline import TransformRequest
 from sklearn.pipeline import make_pipeline
+import spacy
+from spacy.language import Language
+from spacy.tokens import Doc
+import os
+
+transpacy_router = APIRouter()
+
+
+@Language.factory('replace')
+class Replace(object):
+    # nlp: Language
+
+    def __init__(self, nlp: Language, name: str, old: str, new: str):
+        self.nlp = nlp
+        self.name = name
+        self.old = old
+        self.new = new
+
+    def __call__(self, doc: Doc) -> Doc:
+        text = doc.text
+        return self.nlp.make_doc(text.replace(self.old, self.new))
 
 app = FastAPI()
 nlp = spacy.load("en_core_web_sm")
 
 preprocessing_router_specy = APIRouter()
+
+
+
+
 
 class SpaCyPreprocessor:
     @staticmethod
