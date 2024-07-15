@@ -4,7 +4,7 @@ tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 model = BertModel.from_pretrained('bert-base-uncased')
 sentences = [
     ("He sat on the bank of the river.", "He deposited money in the bank."),
-    ("She went to the bank to deposit her paycheck.", "The bank of the river was overflowing with water.")
+
 ]
 
 
