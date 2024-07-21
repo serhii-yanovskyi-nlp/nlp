@@ -19,8 +19,6 @@ def build_embedding_model(vocab_size, embedding_dim, lstm_units):
     x = Dense(embedding_dim)(x)
     return Model(input, x)
 
-
-# Построение модели Siamese
 def build_siamese_model(vocab_size, embedding_dim, lstm_units):
     embedding_model = build_embedding_model(vocab_size, embedding_dim, lstm_units)
 
@@ -36,8 +34,6 @@ def build_siamese_model(vocab_size, embedding_dim, lstm_units):
     model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
     return model
 
-
-# Пример данных
 sentences = [
     "I love machine learning",
     "Machine learning is amazing",
@@ -49,15 +45,15 @@ tokenizer = Tokenizer(num_words=5000)
 tokenizer.fit_on_texts(sentences)
 sequences = tokenizer.texts_to_sequences(sentences)
 padded_sequences = pad_sequences(sequences, padding='post')
-sentences_a = padded_sequences[:2]  # Первые два предложения
-sentences_b = padded_sequences[2:4]  # Следующие два предложения
-labels = np.array([1, 0])  # 1 если предложения похожи, 0 если нет
+sentences_a = padded_sequences[:2]
+sentences_b = padded_sequences[2:4]
+labels = np.array([1, 0])
 vocab_size = 5000
 embedding_dim = 50
 lstm_units = 64
 model = build_siamese_model(vocab_size, embedding_dim, lstm_units)
 model.fit([sentences_a, sentences_b], labels, epochs=5)
-test_sentences_a = np.array([padded_sequences[0]])  # Преобразованные последовательности индексов
+test_sentences_a = np.array([padded_sequences[0]])
 test_sentences_b = np.array([padded_sequences[1]])
 predictions = model.predict([test_sentences_a, test_sentences_b])
 
